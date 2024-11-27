@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#out{
+    border: solid 1px;
+    height: 650px;
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1355px 650px;
+}
+h1{
+    color: aliceblue;
+    font-size: 70px;
+    margin-top: 210px;
+    margin-left: 70px;
+}
+#Register,#Login{
+    height: 40px;
+    width: 120px;
+    background-color:hotpink;
+    margin-top: 20px;
+}
+#Register{
+    margin-left: 300px;
+    margin-right: 20px;
+}
+#Register a,#Login a{
+    color: aliceblue;
+    font-size: medium;
+    text-decoration: none;
+}
+#Register:hover{
+    background-color: cornflowerblue;
+}
+#Login:hover{
+    background-color:cornflowerblue;
+}
+    
